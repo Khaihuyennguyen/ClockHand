@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockHand", "ClockHand.csproj", "{EF4D5C9F-B263-4EF8-B63D-CB2F6CD8CADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4D5C9F-B263-4EF8-B63D-CB2F6CD8CADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4D5C9F-B263-4EF8-B63D-CB2F6CD8CADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4D5C9F-B263-4EF8-B63D-CB2F6CD8CADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4D5C9F-B263-4EF8-B63D-CB2F6CD8CADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D299950E-F222-4D8A-9DDD-76242B55CF91}
+	EndGlobalSection
+EndGlobal
